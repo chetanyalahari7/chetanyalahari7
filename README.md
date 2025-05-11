@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @chetanyalahari7
-- 👀 I’m interested in BTS
-- 🌱 I’m currently learning coding
 
 
 <!---
